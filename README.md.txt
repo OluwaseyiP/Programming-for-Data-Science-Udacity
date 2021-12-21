@@ -55,7 +55,7 @@ FILES USED
 •	new_york_city.csv
 •	washington.csv
 
-REFERENCES
+CREDITS
 
 The original repo of this is forked from : https://github.com/udacity/pdsnd_github.git 
 
