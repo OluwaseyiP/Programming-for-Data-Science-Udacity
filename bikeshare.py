@@ -26,7 +26,7 @@ def get_filters():
         else:
             print("invalid input")
 
-    # ask users if they want to see 5 lines of row data from the city data
+    # Ask users if they are interested in seeing 5 lines of data from the city data files.
     data =  pd.read_csv(CITY_DATA[city])
     size_of_data = len(data);
     display_batch = 5
